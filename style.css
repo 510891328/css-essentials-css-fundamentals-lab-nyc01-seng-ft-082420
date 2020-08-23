@@ -28,7 +28,7 @@ div{
 }
 #featured-property p{
   align-content: center;
-  max-width: 800px;
+  width: 800px;
 }
 #featured-property img{
   width: 900px;
