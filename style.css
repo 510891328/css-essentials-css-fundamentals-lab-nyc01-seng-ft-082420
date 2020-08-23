@@ -27,8 +27,7 @@ div{
   width: 25%;
 }
 #featured-property p{
-  display: block;
-  text-align: center;
+  justify-content: center;
   width: 800px;
 }
 #detail{
