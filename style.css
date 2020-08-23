@@ -23,6 +23,7 @@ nav a{
 div{
   background-color: red;
   text-align: center;
+  width: 25%;
 }
 #featured-property p{
   text-align: center;
@@ -30,5 +31,4 @@ div{
 }
 #detail{
   display: block;
-  float:left;
 }
